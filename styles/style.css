@@ -155,6 +155,11 @@ line {
   user-select: none;
 }
 
+.dot {
+  /* fill: #5aff5a; */
+  transition: 1s;
+  animation: 2.4s distance ease-out;
+}
 .object {
   /* fill: #5aff5a; */
   stroke-width: 5px;
